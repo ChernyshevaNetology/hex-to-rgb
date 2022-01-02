@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hex-to-rgb/static/css/main.25f6010c.chunk.css",
+    "main.js": "/hex-to-rgb/static/js/main.23e2a610.chunk.js",
+    "main.js.map": "/hex-to-rgb/static/js/main.23e2a610.chunk.js.map",
+    "runtime-main.js": "/hex-to-rgb/static/js/runtime-main.c3241c92.js",
+    "runtime-main.js.map": "/hex-to-rgb/static/js/runtime-main.c3241c92.js.map",
+    "static/js/2.6f2811a7.chunk.js": "/hex-to-rgb/static/js/2.6f2811a7.chunk.js",
+    "static/js/2.6f2811a7.chunk.js.map": "/hex-to-rgb/static/js/2.6f2811a7.chunk.js.map",
+    "index.html": "/hex-to-rgb/index.html",
+    "static/css/main.25f6010c.chunk.css.map": "/hex-to-rgb/static/css/main.25f6010c.chunk.css.map",
+    "static/js/2.6f2811a7.chunk.js.LICENSE.txt": "/hex-to-rgb/static/js/2.6f2811a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3241c92.js",
+    "static/js/2.6f2811a7.chunk.js",
+    "static/css/main.25f6010c.chunk.css",
+    "static/js/main.23e2a610.chunk.js"
+  ]
+}
